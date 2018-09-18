@@ -6,12 +6,10 @@
 	android:gravity="center"
 	android:background="#000000">
 
-	<Button
+	<ToggleButton
 		android:layout_height="wrap_content"
 		android:layout_width="wrap_content"
-		android:text="Switch"
-		android:background="#B4B4B4"
-		android:id="@+id/toggleSwitch"/>
+		android:id="@+id/toggleButton"/>
 
 </LinearLayout>
 
